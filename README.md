@@ -1,4 +1,4 @@
-👋 Hi there, I'm Lunalhy <br>
+👋 Hi there, I'm LongNH-git<br>
 🎓 Information Technology Freshman at Posts and Telecommunications Institute of Technology (PTIT)<br>
 💡 Aspiring Business Analyst (BA) and having a strong interest in Frontend Development<br>
 ________________________________________
