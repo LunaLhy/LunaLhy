@@ -1,6 +1,6 @@
 👋 Hi there, I'm LunaLhy<br>
 🎓 Information Technology Freshman at Posts and Telecommunications Institute of Technology (PTIT)<br>
-💡 Aspiring Business Analyst (BA) and having a strong interest in Frontend Development<br>
+💡 Aspiring Business Analyst (BA) and having a strong interest in Frontend - Backend Development<br>
 ________________________________________
 🚀 About Me<br>
 •	🔍 Passionate about analyzing requirements and understanding how systems work<br>
