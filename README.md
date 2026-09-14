@@ -5,8 +5,7 @@ ________________________________________
 🛠️ Skills (Learning & Growing)<br>
 •	💻 Programming: Python, Java<br>
 •	🌐 Frontend: HTML, CSS, JavaScript<br>
-•	🌐 Backend: Python, Java
-•	📊 Analysis: Requirement analysis, data structure thinking, problem-solving<br>
+•	🌐 Backend: Python, Java<br>
 •	📄 Documentation: Writing reports, describing system logic<br>
 •	🧠 Soft skills: Communication, logical thinking<br>
 ________________________________________
