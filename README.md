@@ -1,6 +1,6 @@
 👋 Hi there, I'm LunaLhy<br>
 🎓 Information Technology Freshman at Posts and Telecommunications Institute of Technology (PTIT)<br>
-💡 Aspiring Business Analyst (BA) and having a strong interest in Software Engineer<br>
+💡 Aspiring Backend Enginner and having a strong interest in Software Engineer<br>
 ________________________________________
 🛠️ Skills (Learning & Growing)<br>
 •	💻 Programming: Python, Java<br>
